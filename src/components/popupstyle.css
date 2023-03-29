@@ -1,0 +1,18 @@
+.popup-content {
+    margin: auto;
+    background: rgb(255, 255, 255);
+    width: 50%;
+    height: 50%;
+    padding: 5px;
+  }
+
+.popup-spans{
+    display: flex;
+    justify-content: center;
+}
+
+.popup-close{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
